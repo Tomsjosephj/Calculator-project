@@ -1,0 +1,21 @@
+.button{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color:blue;
+    border-color: black;
+    font-size: 25px;
+}
+
+.main{
+    margin-left: 35px;
+}
+
+.form{
+    border-color: black;
+    width: 85%;
+    height: 75px;
+    background-color: white;
+    margin-left: 35px;
+
+}
